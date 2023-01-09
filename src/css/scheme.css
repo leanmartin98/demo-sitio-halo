@@ -80,11 +80,8 @@
         color: black;
     }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 701px) {
     .info {
-        width: 700px;
-        margin: 0 auto;
-
         background-color: rgba(255, 255, 255, 0.5);
         color: black;
     }
